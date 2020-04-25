@@ -18,6 +18,9 @@ import com.sjh.myapplication.model.User;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 测试master 提交
+ */
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
